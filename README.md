@@ -1,4 +1,4 @@
-# Python-path-Codeacademy
+#  CODE CHALLENGE: STRING METHODS
 Exercises and code from code academy
 CODE CHALLENGE: STRING METHODS
 
